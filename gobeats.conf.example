@@ -1,0 +1,4 @@
+{
+    "MusicPath": "/var/gobeats/music/",
+    "Extensions": [".flac", ".mp3"]
+}
